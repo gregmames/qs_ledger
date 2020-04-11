@@ -1,4 +1,4 @@
-# Quantified Self (QS) Ledger
+# Quantified Self (QS) Ledger  ***(Note: I am in the process of rebuilding this for my purposes)***
 
 ## A Personal Data Aggregator and Dashboard for Self-Trackers and Quantified Self Enthusiasts
 
